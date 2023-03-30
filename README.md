@@ -47,12 +47,8 @@
  
  ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/tayyaba-ali"><img alt="Tayyaba ALi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tayyaba-ali&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/tayyaba-ali"><img alt="Tayyaba Ali's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyaba-ali&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  
-  <br/>
+![Tayyaba Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyaba-ali&show_icons=true&theme=radical)
+    
 <br/>
 
 
