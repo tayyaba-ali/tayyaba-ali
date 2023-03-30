@@ -17,7 +17,7 @@
 
 <br/>
 
- ## 🙋‍♂️ About Me
+ ## 🙋 About Me
 
 - 🎓 UnderGraduation in Software Engineering,
 - 🌱 I’m currently learning **Web 3.0**
