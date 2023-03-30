@@ -7,7 +7,7 @@
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Tayyaba Ali</h1>
  <h3 align="center">MERN stack developer from Pakistan.</h3>
  <p align="center">
-<a href="https://github.com/tayyaba-ali"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Stack%20Developer;Web-Developer%20;and;Self-taught-Programmer;Node%20Js%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0844a3&vCenter=true&size=22"></a>
+<a href="https://github.com/tayyaba-ali"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Stack%20Developer;Web-Developer%20;and;Self-taught-Programmer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0844a3&vCenter=true&size=22"></a>
 </p>
  
  <br/>
@@ -19,11 +19,11 @@
 
  ## 🙋 About Me
 
-- 🎓 UnderGraduation in Software Engineering,
+- 🎓 UnderGraduate in Software Engineering,
 - 🌱 I’m currently learning **Web 3.0**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **heytayyaba@gmail.com**
-- ⚡ Fun fact **I love coding and problem solver.**
+- ⚡ Fun fact **I love coding and problem solving.**
  
  
  
