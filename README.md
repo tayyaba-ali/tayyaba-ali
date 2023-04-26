@@ -50,7 +50,7 @@
 ![Tayyaba Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyaba-ali&show_icons=true&theme=radical)
 <br/>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 ## Connect with me:
 <p align="left">
