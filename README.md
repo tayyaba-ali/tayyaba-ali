@@ -47,11 +47,8 @@
  
  ## 📊 My Github Stats
  
-![Tayyaba Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyaba-ali&show_icons=true)
+![Tayyaba Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyaba-ali&show_icons=true&theme=radical)
 <br/>
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tayyaba-ali)](https://github.com/anuraghazra/github-readme-stats)
 ## Connect with me:
 <p align="left">
 
