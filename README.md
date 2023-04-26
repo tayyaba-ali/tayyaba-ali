@@ -46,11 +46,12 @@
  
  
  ## 📊 My Github Stats
+ 
 ![Tayyaba Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyaba-ali&show_icons=true)
 <br/>
 
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 ## Connect with me:
 <p align="left">
 
