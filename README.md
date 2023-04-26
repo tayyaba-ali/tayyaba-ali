@@ -46,9 +46,7 @@
  
  
  ## 📊 My Github Stats
-
-![Tayyaba Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyaba-ali&show_icons=true&theme=radical)
-![Tayyaba Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyaba-ali&show_icons=true&theme=radical)
+![Tayyaba Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyaba-ali&show_icons=true)
 <br/>
 
 
