@@ -52,9 +52,10 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://linkedin.com/in/tayyaba-ali"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/tayyaba.ali.5477/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-
+  <br/>
+    <a href="https://github.com/tayyaba-ali"><img alt="Tayyaba Ali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tayyaba-ali&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/tayyaba-ali"><img alt="Ali Aftab Sheikh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyaba-ali&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 </p>
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/tayyaba-ali.svg)](https://user-badge.committers.top/pakistan/tayyaba-ali)
