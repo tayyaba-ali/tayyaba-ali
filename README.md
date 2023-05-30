@@ -40,7 +40,7 @@
  
   <p align="center">
     <a href="https://github.com/tayyaba-ali">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ali Aftab Sheikh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyaba-ali&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ali Aftab Sheikh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyaba-ali&theme=neon-dark"/>
     </a>
 </p>
  
@@ -51,8 +51,8 @@
 <p align="left">
 
   <br/>
-    <a href="https://github.com/tayyaba-ali"><img alt="Tayyaba Ali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tayyaba-ali&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/tayyaba-ali"><img alt="Ali Aftab Sheikh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyaba-ali&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/tayyaba-ali"><img alt="Tayyaba Ali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tayyaba-ali&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"" /></a>
+  <a href="https://github.com/tayyaba-ali"><img alt="Tayyaba Ali's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyaba-ali&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"" /></a>
   <br/>
 </p>
 
