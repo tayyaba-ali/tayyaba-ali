@@ -5,7 +5,7 @@
 
 
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Tayyaba Ali</h1>
- <h3 align="center">MERN stack developer from Pakistan.</h3>
+ <h3 align="center">MERN stack developer from Pakistan.</h3>st
  <p align="center">
 <a href="https://github.com/tayyaba-ali"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Stack%20Developer;Web-Developer%20;and;Self-taught-Programmer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0844a3&vCenter=true&size=22"></a>
 </p>
@@ -40,7 +40,7 @@
  
  <p align="center">
     <a href="https://github.com/tayyaba-ali">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tayyaba ALi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyaba-ali&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tayyaba ALi's streak" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tayyaba-ali&theme=nightowl)](https://git.io/streak-stats)/>
     </a>
 </p>
  
