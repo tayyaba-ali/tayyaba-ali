@@ -40,7 +40,7 @@
  
  <p align="center">
     <a href="https://github.com/tayyaba-ali">
-         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tayyaba ALi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyaba-ali&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+       ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tayyaba-ali&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
     </a>
 </p>
  
