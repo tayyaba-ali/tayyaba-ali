@@ -38,11 +38,7 @@
 - Deployment (Firebase, Heroku, Netlify,Railway,Cyclic)
 <br/>
  
-  <p align="center">
-    <a href="https://github.com/tayyaba-ali">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ali Aftab Sheikh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyaba-ali&theme=neon-dark"/>
-    </a>
-</p>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tayyaba-ali&theme=dark)](https://git.io/streak-stats)
  
  ## 📊 My Github Stats
  
